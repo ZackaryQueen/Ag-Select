@@ -20,17 +20,34 @@ body {
 }
 
 
+.navbar a:hover {
+   background-color: #FFF;
+   color: black !important;
+   opacity: .8;
+}
+
+
 #transLogo {
   background-color: white !important;
 }
 
 #carouselExampleIndicators {
-  border: 2px solid black;
+    border: 2px solid black;
 }
+
+ /* a:hover {
+  background-color: #737373;
+  opacity: .1;
+} */
+
 
 #bottomtext, .navbar-text {
   color: black !important;
   font-size: 1.3em !important;
+}
+
+#bottomtext {
+  width: 90%;
 }
 
 
@@ -41,4 +58,23 @@ body {
   font-size: 1.2em !important;
   text-decoration: none !important;
 }
+
+#phoneNumber, span {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#phoneNumber {
+  font-size: 1.3em;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+}
+
 
