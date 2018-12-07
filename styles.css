@@ -101,6 +101,28 @@ background: #3366cc;
 border: 1px solid black;
 }
 
+/* Thanks Page Return Home Button */
+input.returnButton {
+width: 150px;
+padding: 5px;
+cursor: pointer;
+font-size: 100%;
+background: #3366cc;
+color: #fff;
+border: 1px solid #3366cc;
+border-radius: 5px;
+text-align: center;
+}
+input.MyButton:hover {
+color: #FFF;
+background: #3366cc;
+border: 1px solid black;
+}
+
+.returnButton, .container {
+  text-align: center;
+}
+
 /* Cards Styling End */
 
 /* Footer Styling */
