@@ -38,6 +38,45 @@ a[href^="tel"] {
    opacity: .8;
 }
 
+/* Social Media Icons Styling */
+
+ul.social-media-list img {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: lightblue;
+    width: 36px;
+    height: 36px;
+    margin-left: 10px;
+}
+
+ul.social-media-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.social-media-list li {
+    display: inline-block;
+}
+
+ul.social-media-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 0px; /* eliminate space between li */
+}
+
+ul.social-media-list li {
+    display: inline-block;
+    margin: 2px;
+}
+
+ul.social-media-list img:hover {
+    background-color: rgb(0, 144, 85);
+}
+/* End of Social Media Icons */
+
+
 /* Navigation Styling End */
 
 /* Nav Bar Company Logo */
