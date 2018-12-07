@@ -125,6 +125,19 @@ border: 1px solid black;
 
 /* Cards Styling End */
 
+/* Blog Submit Button Styling */
+input.formSubmit {
+  width: 150px;
+  padding: 5px;
+  cursor: pointer;
+  font-size: 100%;
+  background: #3366cc;
+  color: #fff;
+  border: 1px solid #3366cc;
+  border-radius: 5px;
+  text-align: center;
+}
+
 /* Footer Styling */
 .page-footer {
   background-color: rgb(22, 22, 22) !important;
