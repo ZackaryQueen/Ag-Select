@@ -92,6 +92,12 @@ ul.social-media-list img:hover {
     border: 2px solid black;
 }
 
+h5 {
+  color: white;
+  font-size: 1.8em;
+  text-shadow: 2px 2px black;
+}
+
  /* a:hover {
   background-color: #737373;
   opacity: .1;
