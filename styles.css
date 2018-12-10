@@ -203,6 +203,16 @@ input.formSubmit {
 }
 /* Footer Contact Styling End */
 
+/* Contacts Page Form Names */
+label {
+  float: left;
+}
+
+.submitForm, .btn-primary{
+  position: relative;
+  left: -300px;
+}
+
 
 /* GreenFundSolutions Logo Footer */
 .center {
