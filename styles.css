@@ -219,3 +219,9 @@ input.formSubmit {
 small {
   text-decoration: underline;
 }
+
+/*About Us Page Styling*/
+
+.aboutusimg1{
+  border-radius: 8px;
+}
